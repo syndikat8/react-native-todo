@@ -4,8 +4,7 @@ const CHANGE_TASK = "todo/todoReducer/CHANGE_TASK";
 
 const initialState = {
   tasks: [
-    { id: "2", title: "FirstTask" },
-
+    { id: "2", title: "FirstTask" }
   ],
 };
 
